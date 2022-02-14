@@ -4,6 +4,8 @@
 // @author         billy
 // @version        2.0
 // @match          https://semantle.novalis.org/*
+// @downloadURL    https://b-illy.github.io/bettersemantle/semantle.user.js
+// @updateURL      https://b-illy.github.io/bettersemantle/semantle.user.js
 // @grant          none
 // ==/UserScript==
 
