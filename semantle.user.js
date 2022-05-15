@@ -2,8 +2,9 @@
 // @name           Better Semantle
 // @description    allows you to play unlimited random words instead of just one a day
 // @author         billy
-// @version        2.0.1
+// @version        2.0.2
 // @match          https://semantle.novalis.org/*
+// @match          https://semantle.com/*
 // @downloadURL    https://b-illy.github.io/bettersemantle/semantle.user.js
 // @updateURL      https://b-illy.github.io/bettersemantle/semantle.user.js
 // @grant          none
