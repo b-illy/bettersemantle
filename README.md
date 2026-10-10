@@ -1,5 +1,5 @@
 # bettersemantle
 
-a tampermonkey / greasemonkey extension for [semantle](https://semantle.novalis.org/).
+an extension / userscript for the web game [semantle](https://semantle.novalis.org/).
 
-see the [website](https://b-illy.github.io/bettersemantle/)
+for further details and installation instructions, [see the website here](https://b-illy.github.io/bettersemantle/).
